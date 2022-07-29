@@ -1,5 +1,4 @@
-- I’m @CountFlandy, a 26 year old who's just trying to get his footing.
-- I’m really interested in history, though usually you can find me at home behind my desk playing some game.
-- Currently learning C#, though I'm open to more in the future as I get my footing in C#.
+- I’m @CountFlandy, a 27 year old who's just trying to get his footing.
+- I'm experienced in C#, and currently am working on small projects to pad my portfoilo.
 - I’m mostly looking to make small things to expand my skills, though I'm open to suggestions and collabs.
 - If you need to reach me you can find me most places, typically I'm "Count Flandy" everywhere. 
